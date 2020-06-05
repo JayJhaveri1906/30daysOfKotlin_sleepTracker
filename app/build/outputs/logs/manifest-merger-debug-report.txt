@@ -1,0 +1,245 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\TP_PROGS\Projects\30DaysOfKotlinGoogle\progs\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\TP_PROGS\Projects\30DaysOfKotlinGoogle\progs\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\TP_PROGS\Projects\30DaysOfKotlinGoogle\progs\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\TP_PROGS\Projects\30DaysOfKotlinGoogle\progs\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.databinding:databinding-adapters:3.3.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\databinding-adapters-3.3.0.aar\1e5e1fbf002b0a5229765c56199d388e\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.3.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\databinding-runtime-3.3.0.aar\d8ca50384e8e812e4155deefd9d7b311\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha3.aar\eb0de12572b33335444934e861c60358\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0-alpha08] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\jetified-navigation-ui-ktx-1.0.0-alpha08.aar\2a38afe0346f3cf70930d7e799591920\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-alpha08] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\jetified-navigation-ui-1.0.0-alpha08.aar\7b4840dcb1169df460e0175253cc34af\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\cd82a1a13a480e0bdf2b7c2de66f2fea\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.2.aar\c27d2ac82d88da828bfaef492e1c6cc4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0-alpha08] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\jetified-navigation-fragment-ktx-1.0.0-alpha08.aar\d58edfe8e19187fcb0238c18ddcd0be4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-alpha08] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\jetified-navigation-fragment-1.0.0-alpha08.aar\61fda7a198808fe4acc4bdd80668a905\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\f7305ab6a1ed299c7eaa5be153ab919c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\lifecycle-extensions-2.0.0.aar\de5fd65a65e75e0811660cc6a9c23d5a\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\a5e1ae8e24dd6296551b55cc7c170360\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.0.1] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\core-ktx-1.0.1.aar\7559706d98fc15139140d2d6c120364e\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-runtime:2.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\room-runtime-2.0.0.aar\25cf56831f986042be21976b5f03087d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\38fc17831a36ef99a07dbb271d8b83c6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\a89890210d17b77b778ba93c928908f9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\0684c56c46e9d46ae2fef89eca2f9df2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0-alpha08] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\jetified-navigation-runtime-ktx-1.0.0-alpha08.aar\6d5a02fe3ec1705e2d5edab4654506df\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-alpha08] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\jetified-navigation-runtime-1.0.0-alpha08.aar\39e19d88d79bb64130be8e5a45e75b88\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\f27e20233c69b33d567d865d5a7125cd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\e72cb29d6a9af0b425b7047fced84e61\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\4f38feb28008a4bf85e1c5844f37c7e4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\f7cb64367530fd62e8149877b3b3b4f8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\7a81c3c5fb40eaeea6c69517ac2d3f06\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\2339f2040e8c25a7b960a891db8d883f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\d871590d04f8140a9c7c9c99c5b771d0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\315037dba74bfe60e752f24b68226521\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\2c7dcb59426ecf27d1afe7308922a926\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\08c35cd03bc14cd5ccec7d1bba6e2734\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\f8b3cb4cd4989af4a151e7b0ec965608\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\c719c29b68217981de25bd2185f54ce2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0-alpha08] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\jetified-navigation-common-ktx-1.0.0-alpha08.aar\8392a4164954a2efec3b00f70f0eb422\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common:1.0.0-alpha08] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\jetified-navigation-common-1.0.0-alpha08.aar\2b4a74afcbfb3d0ac9f41f1371427a88\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\a85890dc2db82fc358a37373088180ba\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\3ea8ad961fc67d1a40a04a26d21e92c0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\lifecycle-service-2.0.0.aar\3a9a6e6150b2356f2b82914bbccb88a7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\91ca915201dc388e88c4606743547818\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\987bb3da707989f72df0f58dc16aca6c\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\f9bd2e9782781066977dc088f4ca5233\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\65e9691e4b0d051bada4bd2027911827\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\sqlite-framework-2.0.0.aar\4e398b5ab3b4a16e2b00bc3424edf1be\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\sqlite-2.0.0.aar\a6610b0ddc08b3c730ad98af7f77df4f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\58104d027290ba48cf4a6db70677b62c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\02ec4f19388939c20435c83acdeb4d31\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\c8cdb188ffded1bb4bfa50c8bc11b44a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\83655891323e3b7391e3b4491c9ccc75\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\3191f1f15612c18ca115ac6e3e06c98c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\aead810f09d54a8570853c58f61d2f21\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\51afe374f35bb479b161d2e89d529349\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\a65ebbdb0cc055e3cdf758ae804a0a2a\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\TP_PROGS\Projects\30DaysOfKotlinGoogle\progs\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\TP_PROGS\Projects\30DaysOfKotlinGoogle\progs\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\TP_PROGS\Projects\30DaysOfKotlinGoogle\progs\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from D:\TP_PROGS\Projects\30DaysOfKotlinGoogle\progs\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:3:5-54
+		INJECTED from D:\TP_PROGS\Projects\30DaysOfKotlinGoogle\progs\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from D:\TP_PROGS\Projects\30DaysOfKotlinGoogle\progs\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\TP_PROGS\Projects\30DaysOfKotlinGoogle\progs\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml
+		ADDED from D:\TP_PROGS\Projects\30DaysOfKotlinGoogle\progs\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from D:\TP_PROGS\Projects\30DaysOfKotlinGoogle\progs\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\TP_PROGS\Projects\30DaysOfKotlinGoogle\progs\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml
+		ADDED from D:\TP_PROGS\Projects\30DaysOfKotlinGoogle\progs\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from D:\TP_PROGS\Projects\30DaysOfKotlinGoogle\progs\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\TP_PROGS\Projects\30DaysOfKotlinGoogle\progs\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\TP_PROGS\Projects\30DaysOfKotlinGoogle\progs\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha3.aar\eb0de12572b33335444934e861c60358\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha3.aar\eb0de12572b33335444934e861c60358\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\cd82a1a13a480e0bdf2b7c2de66f2fea\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\cd82a1a13a480e0bdf2b7c2de66f2fea\AndroidManifest.xml:22:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\lifecycle-extensions-2.0.0.aar\de5fd65a65e75e0811660cc6a9c23d5a\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\lifecycle-extensions-2.0.0.aar\de5fd65a65e75e0811660cc6a9c23d5a\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.core:core:1.0.1] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\a85890dc2db82fc358a37373088180ba\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\a85890dc2db82fc358a37373088180ba\AndroidManifest.xml:22:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\3ea8ad961fc67d1a40a04a26d21e92c0\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\3ea8ad961fc67d1a40a04a26d21e92c0\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\987bb3da707989f72df0f58dc16aca6c\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\987bb3da707989f72df0f58dc16aca6c\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\a85890dc2db82fc358a37373088180ba\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from D:\TP_PROGS\Projects\30DaysOfKotlinGoogle\progs\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\TP_PROGS\Projects\30DaysOfKotlinGoogle\progs\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\TP_PROGS\Projects\30DaysOfKotlinGoogle\progs\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:9:9-68
+	android:icon
+		ADDED from D:\TP_PROGS\Projects\30DaysOfKotlinGoogle\progs\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:7:9-57
+	android:allowBackup
+		ADDED from D:\TP_PROGS\Projects\30DaysOfKotlinGoogle\progs\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\TP_PROGS\Projects\30DaysOfKotlinGoogle\progs\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.android.trackmysleepquality.MainActivity
+ADDED from D:\TP_PROGS\Projects\30DaysOfKotlinGoogle\progs\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\TP_PROGS\Projects\30DaysOfKotlinGoogle\progs\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\TP_PROGS\Projects\30DaysOfKotlinGoogle\progs\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\TP_PROGS\Projects\30DaysOfKotlinGoogle\progs\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\TP_PROGS\Projects\30DaysOfKotlinGoogle\progs\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\TP_PROGS\Projects\30DaysOfKotlinGoogle\progs\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\TP_PROGS\Projects\30DaysOfKotlinGoogle\progs\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:16:27-74
+meta-data#preloaded_fonts
+ADDED from D:\TP_PROGS\Projects\30DaysOfKotlinGoogle\progs\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:19:9-21:57
+	android:resource
+		ADDED from D:\TP_PROGS\Projects\30DaysOfKotlinGoogle\progs\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:21:13-54
+	android:name
+		ADDED from D:\TP_PROGS\Projects\30DaysOfKotlinGoogle\progs\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml:20:13-43
+uses-sdk
+INJECTED from D:\TP_PROGS\Projects\30DaysOfKotlinGoogle\progs\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\TP_PROGS\Projects\30DaysOfKotlinGoogle\progs\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml
+INJECTED from D:\TP_PROGS\Projects\30DaysOfKotlinGoogle\progs\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.3.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\databinding-adapters-3.3.0.aar\1e5e1fbf002b0a5229765c56199d388e\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.3.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\databinding-adapters-3.3.0.aar\1e5e1fbf002b0a5229765c56199d388e\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.3.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\databinding-runtime-3.3.0.aar\d8ca50384e8e812e4155deefd9d7b311\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.3.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\databinding-runtime-3.3.0.aar\d8ca50384e8e812e4155deefd9d7b311\AndroidManifest.xml:22:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha3.aar\eb0de12572b33335444934e861c60358\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha3] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha3.aar\eb0de12572b33335444934e861c60358\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0-alpha08] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\jetified-navigation-ui-ktx-1.0.0-alpha08.aar\2a38afe0346f3cf70930d7e799591920\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0-alpha08] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\jetified-navigation-ui-ktx-1.0.0-alpha08.aar\2a38afe0346f3cf70930d7e799591920\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-alpha08] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\jetified-navigation-ui-1.0.0-alpha08.aar\7b4840dcb1169df460e0175253cc34af\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-alpha08] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\jetified-navigation-ui-1.0.0-alpha08.aar\7b4840dcb1169df460e0175253cc34af\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\cd82a1a13a480e0bdf2b7c2de66f2fea\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\cd82a1a13a480e0bdf2b7c2de66f2fea\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.2.aar\c27d2ac82d88da828bfaef492e1c6cc4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.2.aar\c27d2ac82d88da828bfaef492e1c6cc4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0-alpha08] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\jetified-navigation-fragment-ktx-1.0.0-alpha08.aar\d58edfe8e19187fcb0238c18ddcd0be4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0-alpha08] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\jetified-navigation-fragment-ktx-1.0.0-alpha08.aar\d58edfe8e19187fcb0238c18ddcd0be4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-alpha08] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\jetified-navigation-fragment-1.0.0-alpha08.aar\61fda7a198808fe4acc4bdd80668a905\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-alpha08] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\jetified-navigation-fragment-1.0.0-alpha08.aar\61fda7a198808fe4acc4bdd80668a905\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\f7305ab6a1ed299c7eaa5be153ab919c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\f7305ab6a1ed299c7eaa5be153ab919c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\lifecycle-extensions-2.0.0.aar\de5fd65a65e75e0811660cc6a9c23d5a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\lifecycle-extensions-2.0.0.aar\de5fd65a65e75e0811660cc6a9c23d5a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\a5e1ae8e24dd6296551b55cc7c170360\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\fragment-1.0.0.aar\a5e1ae8e24dd6296551b55cc7c170360\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.0.1] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\core-ktx-1.0.1.aar\7559706d98fc15139140d2d6c120364e\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.1] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\core-ktx-1.0.1.aar\7559706d98fc15139140d2d6c120364e\AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-runtime:2.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\room-runtime-2.0.0.aar\25cf56831f986042be21976b5f03087d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\room-runtime-2.0.0.aar\25cf56831f986042be21976b5f03087d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\38fc17831a36ef99a07dbb271d8b83c6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\38fc17831a36ef99a07dbb271d8b83c6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\a89890210d17b77b778ba93c928908f9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\a89890210d17b77b778ba93c928908f9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\0684c56c46e9d46ae2fef89eca2f9df2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\0684c56c46e9d46ae2fef89eca2f9df2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0-alpha08] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\jetified-navigation-runtime-ktx-1.0.0-alpha08.aar\6d5a02fe3ec1705e2d5edab4654506df\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0-alpha08] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\jetified-navigation-runtime-ktx-1.0.0-alpha08.aar\6d5a02fe3ec1705e2d5edab4654506df\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-alpha08] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\jetified-navigation-runtime-1.0.0-alpha08.aar\39e19d88d79bb64130be8e5a45e75b88\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-alpha08] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\jetified-navigation-runtime-1.0.0-alpha08.aar\39e19d88d79bb64130be8e5a45e75b88\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\f27e20233c69b33d567d865d5a7125cd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\f27e20233c69b33d567d865d5a7125cd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\e72cb29d6a9af0b425b7047fced84e61\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.1.aar\e72cb29d6a9af0b425b7047fced84e61\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\4f38feb28008a4bf85e1c5844f37c7e4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\4f38feb28008a4bf85e1c5844f37c7e4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\f7cb64367530fd62e8149877b3b3b4f8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\f7cb64367530fd62e8149877b3b3b4f8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\7a81c3c5fb40eaeea6c69517ac2d3f06\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\7a81c3c5fb40eaeea6c69517ac2d3f06\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\2339f2040e8c25a7b960a891db8d883f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\2339f2040e8c25a7b960a891db8d883f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\d871590d04f8140a9c7c9c99c5b771d0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\d871590d04f8140a9c7c9c99c5b771d0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\315037dba74bfe60e752f24b68226521\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\315037dba74bfe60e752f24b68226521\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\2c7dcb59426ecf27d1afe7308922a926\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\2c7dcb59426ecf27d1afe7308922a926\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\08c35cd03bc14cd5ccec7d1bba6e2734\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\08c35cd03bc14cd5ccec7d1bba6e2734\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\f8b3cb4cd4989af4a151e7b0ec965608\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\f8b3cb4cd4989af4a151e7b0ec965608\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\c719c29b68217981de25bd2185f54ce2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\transition-1.0.0.aar\c719c29b68217981de25bd2185f54ce2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0-alpha08] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\jetified-navigation-common-ktx-1.0.0-alpha08.aar\8392a4164954a2efec3b00f70f0eb422\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0-alpha08] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\jetified-navigation-common-ktx-1.0.0-alpha08.aar\8392a4164954a2efec3b00f70f0eb422\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0-alpha08] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\jetified-navigation-common-1.0.0-alpha08.aar\2b4a74afcbfb3d0ac9f41f1371427a88\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0-alpha08] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\jetified-navigation-common-1.0.0-alpha08.aar\2b4a74afcbfb3d0ac9f41f1371427a88\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\a85890dc2db82fc358a37373088180ba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\core-1.0.1.aar\a85890dc2db82fc358a37373088180ba\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\3ea8ad961fc67d1a40a04a26d21e92c0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\3ea8ad961fc67d1a40a04a26d21e92c0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\lifecycle-service-2.0.0.aar\3a9a6e6150b2356f2b82914bbccb88a7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\lifecycle-service-2.0.0.aar\3a9a6e6150b2356f2b82914bbccb88a7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\91ca915201dc388e88c4606743547818\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.0.0.aar\91ca915201dc388e88c4606743547818\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\987bb3da707989f72df0f58dc16aca6c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.0.0.aar\987bb3da707989f72df0f58dc16aca6c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\f9bd2e9782781066977dc088f4ca5233\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\f9bd2e9782781066977dc088f4ca5233\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\65e9691e4b0d051bada4bd2027911827\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.0.0.aar\65e9691e4b0d051bada4bd2027911827\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\sqlite-framework-2.0.0.aar\4e398b5ab3b4a16e2b00bc3424edf1be\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\sqlite-framework-2.0.0.aar\4e398b5ab3b4a16e2b00bc3424edf1be\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\sqlite-2.0.0.aar\a6610b0ddc08b3c730ad98af7f77df4f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\sqlite-2.0.0.aar\a6610b0ddc08b3c730ad98af7f77df4f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\58104d027290ba48cf4a6db70677b62c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\58104d027290ba48cf4a6db70677b62c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\02ec4f19388939c20435c83acdeb4d31\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\02ec4f19388939c20435c83acdeb4d31\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\c8cdb188ffded1bb4bfa50c8bc11b44a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\c8cdb188ffded1bb4bfa50c8bc11b44a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\83655891323e3b7391e3b4491c9ccc75\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\83655891323e3b7391e3b4491c9ccc75\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\3191f1f15612c18ca115ac6e3e06c98c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\3191f1f15612c18ca115ac6e3e06c98c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\aead810f09d54a8570853c58f61d2f21\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\aead810f09d54a8570853c58f61d2f21\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\51afe374f35bb479b161d2e89d529349\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\51afe374f35bb479b161d2e89d529349\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\a65ebbdb0cc055e3cdf758ae804a0a2a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\a65ebbdb0cc055e3cdf758ae804a0a2a\AndroidManifest.xml:20:5-44
+INJECTED from D:\TP_PROGS\Projects\30DaysOfKotlinGoogle\progs\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml
+INJECTED from D:\TP_PROGS\Projects\30DaysOfKotlinGoogle\progs\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\TP_PROGS\Projects\30DaysOfKotlinGoogle\progs\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml
+		ADDED from D:\TP_PROGS\Projects\30DaysOfKotlinGoogle\progs\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from D:\TP_PROGS\Projects\30DaysOfKotlinGoogle\progs\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\TP_PROGS\Projects\30DaysOfKotlinGoogle\progs\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml
+		ADDED from D:\TP_PROGS\Projects\30DaysOfKotlinGoogle\progs\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from D:\TP_PROGS\Projects\30DaysOfKotlinGoogle\progs\TrackMySleepQualityCoroutines-Starter\app\src\main\AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\3ea8ad961fc67d1a40a04a26d21e92c0\AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\3ea8ad961fc67d1a40a04a26d21e92c0\AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\3ea8ad961fc67d1a40a04a26d21e92c0\AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\3ea8ad961fc67d1a40a04a26d21e92c0\AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\jjhav\.gradle\caches\transforms-1\files-1.1\lifecycle-process-2.0.0.aar\3ea8ad961fc67d1a40a04a26d21e92c0\AndroidManifest.xml:24:13-79
